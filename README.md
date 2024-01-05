@@ -31,8 +31,4 @@ The Chat App Client is the server-side component of the Chat App application, en
 
 This Chat App Client is released under the [MIT License](LICENSE).
 
-## Acknowledgments
-
-- Thanks to the JavaFX community for providing a rich set of tools for building graphical user interfaces.
-
 Feel free to customize, extend, and enhance this code for your specific needs. If you encounter issues or have suggestions, please submit them in the [issues](https://github.com/yourusername/yourrepository/issues) section.
